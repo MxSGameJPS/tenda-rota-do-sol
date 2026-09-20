@@ -1,0 +1,51 @@
+{
+  "generatedAt": "2026-09-20T20:21:49.378Z",
+  "generatorVersion": 2,
+  "aiUsed": true,
+  "aiWarning": "",
+  "source": "Google Places + CRM",
+  "design": {
+    "direction": "editorial",
+    "heroLayout": "asymmetric",
+    "fontPair": "humanist",
+    "motion": "standard",
+    "radius": "sharp",
+    "signatureLabel": "Prévia desenvolvida por Saulo Pavanello",
+    "colors": {
+      "primary": "#7A3B1E",
+      "accent": "#E0932B",
+      "background": "#F5EEE1",
+      "surface": "#EDE2CE",
+      "text": "#2A1C12",
+      "muted": "#6B5A48"
+    }
+  },
+  "audience": "Viajantes na RS-486, moradores de Itati e da região das Hortênsias e famílias que buscam parada de estrada com produtos coloniais e comida caseira",
+  "pageJob": "Fazer quem passa pela Rota do Sol reconhecer a Tenda como parada obrigatória, mostrar o que se encontra ali e converter em ligação ou visita presencial",
+  "effects": [
+    "entrance-motion",
+    "section-reveal",
+    "hover-lift",
+    "parallax-hero",
+    "glass-header",
+    "ambient-glow",
+    "smooth-scroll",
+    "cta-pulse"
+  ],
+  "referenceImageCount": 0,
+  "photoAttributions": [
+    {
+      "name": "rufinofc",
+      "uri": "https://maps.google.com/maps/contrib/115159133272196110095"
+    },
+    {
+      "name": "Smailei Pretto Bazi",
+      "uri": "https://maps.google.com/maps/contrib/117305346674631957410"
+    },
+    {
+      "name": "Eliane Maria Oliveira",
+      "uri": "https://maps.google.com/maps/contrib/104824770556420494004"
+    }
+  ],
+  "validationRequired": true
+}
